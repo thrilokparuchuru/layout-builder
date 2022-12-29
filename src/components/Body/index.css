@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 1em 0em;
+  height: 60vh;
+}
+
+.left-navbar,
+.right-navbar {
+  background-color: #64748b;
+  width: 28%;
+  padding-left: 2em;
+  color: #cbd5e1;
+}
+
+.content-div {
+  width: 33%;
+  padding: 25px;
+  background-color: #e2e8f0;
+  flex-grow: 1;
+}
+
+.ad {
+  height: 40%;
+  width: 50%;
+  text-align: center;
+  padding-top: 4em;
+  border: 1px solid black;
+  margin-left: 3em;
+  flex-shrink: 1;
+}

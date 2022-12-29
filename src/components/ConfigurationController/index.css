@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.configuration-container {
+  height: 30vh;
+  background-color: #475569;
+  color: white;
+  padding-left: 5em;
+}
+.layout-heading {
+  margin-top: 0px;
+  margin-bottom: 0.5em;
+  font-size: 3rem;
+}
+.configuration-item {
+  margin-bottom: 0.2em;
+  font-weight: 600;
+}
+
+.configuration-item label {
+  margin-left: 1em;
+}

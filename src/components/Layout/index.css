@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.layout-container {
+  min-height: 60vh;
+  max-height: 70vh;
+  background-color: white;
+  padding: 2em;
+}
